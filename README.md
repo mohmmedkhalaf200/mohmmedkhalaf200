@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**mohmmedkhalaf200/mohmmedkhalaf200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
